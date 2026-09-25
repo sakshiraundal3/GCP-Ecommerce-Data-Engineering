@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P001,Laptop,Electronics,65000
+P002,Smartphone,Electronics,35000
+P003,Headphones,Electronics,2500
+P004,Office Chair,Furniture,8500
+P005,Desk,Furniture,12000
+P006,Backpack,Accessories,1800
+P007,Smartwatch,Electronics,5500
+P008,Keyboard,Accessories,2200
+P009,Mouse,Accessories,1200
+P010,Monitor,Electronics,15000
